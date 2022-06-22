@@ -1,0 +1,6 @@
+devel_space: /home/client/Tp_RandomWalk_Samalloo/random_walk_ws/devel
+install: false
+install_space: /home/client/Tp_RandomWalk_Samalloo/random_walk_ws/install
+profile: default
+source_space: /home/client/Tp_RandomWalk_Samalloo/random_walk_ws/src
+workspace: /home/client/Tp_RandomWalk_Samalloo/random_walk_ws

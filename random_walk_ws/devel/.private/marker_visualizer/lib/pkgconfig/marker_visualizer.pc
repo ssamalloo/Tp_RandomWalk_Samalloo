@@ -1,0 +1,8 @@
+prefix=/home/client/Tp_RandomWalk_Samalloo/random_walk_ws/devel/.private/marker_visualizer
+
+Name: marker_visualizer
+Description: Description of marker_visualizer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

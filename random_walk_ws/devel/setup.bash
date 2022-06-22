@@ -1,0 +1,1 @@
+/home/client/Tp_RandomWalk_Samalloo/random_walk_ws/devel/.private/catkin_tools_prebuild/setup.bash
